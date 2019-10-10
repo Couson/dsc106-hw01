@@ -1,0 +1,8 @@
+the listed are the reference used in this hw assignments
+
+1. how to use highcharts https://github.com/soumym/ucsd_dsc106_fa19/tree/master/sample_highcharts
+2. how to plot pie chart using d3 http://bl.ocks.org/enjalot/1203641
+3. how to create bar charts using d3 https://www.youtube.com/watch?v=NlBt-7PuaLk
+4. how to create line charts using d3 https://www.youtube.com/watch?v=T7KUZfwbYaA
+5. how to creae bar charts using d3 https://www.youtube.com/watch?v=XbmG4Aycj5A
+
